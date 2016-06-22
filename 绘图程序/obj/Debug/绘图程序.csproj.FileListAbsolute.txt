@@ -1,0 +1,10 @@
+C:\Users\msi\Desktop\绘图程序\绘图程序\obj\Debug\绘图程序.exe
+C:\Users\msi\Desktop\绘图程序\绘图程序\obj\Debug\绘图程序.pdb
+C:\Users\msi\Desktop\绘图程序\绘图程序\bin\Debug\绘图程序.exe
+C:\Users\msi\Desktop\绘图程序\绘图程序\bin\Debug\绘图程序.pdb
+C:\Users\msi\Desktop\绘图程序\绘图程序\bin\Debug\ColorHatch.pdb
+C:\Users\msi\Desktop\绘图程序\绘图程序\bin\Debug\ColorHatch.xml
+C:\Users\msi\Desktop\绘图程序\绘图程序\obj\Debug\绘图程序.csprojResolveAssemblyReference.cache
+C:\Users\msi\Desktop\绘图程序\绘图程序\obj\Debug\绘图程序.Draw.resources
+C:\Users\msi\Desktop\绘图程序\绘图程序\obj\Debug\绘图程序.Properties.Resources.resources
+C:\Users\msi\Desktop\绘图程序\绘图程序\obj\Debug\绘图程序.csproj.GenerateResource.Cache
